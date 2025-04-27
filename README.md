@@ -9,3 +9,13 @@ Vectorization Techniques: Mastered converting unstructured data into meaningful 
 Hands-On Projects: Applied the knowledge with practical projects that demonstrate real-world applications of vector databases, including AI-driven search, document clustering, and personalized content recommendations.
 
 Advanced Querying and Retrieval: Understood how to quickly perform efficient similarity searches and retrieve relevant data using advanced querying techniques.
+
+Sample Env File:
+OPENAI_API_KEY="sk-proj-*"
+LANGCHAIN_API_KEY=""
+LANGCHAIN_PROJECT=""
+HF_TOKEN=""
+LANGCHAIN_TRACING_V2=True
+GEMINI_API_KEY=""
+GROQ_API_KEY=""
+MODAL_TOKEN_ID = ""
