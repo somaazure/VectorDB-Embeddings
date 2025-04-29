@@ -19,3 +19,10 @@ LANGCHAIN_TRACING_V2=True
 GEMINI_API_KEY=""
 GROQ_API_KEY=""
 MODAL_TOKEN_ID = ""
+
+##################Projects
+Project1: Sematic Search on Medium post articles:
+
+
+
+
