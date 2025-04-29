@@ -21,8 +21,8 @@ GROQ_API_KEY=""
 MODAL_TOKEN_ID = ""
 
 ##################Projects
-Project1: Sematic Search on Medium post articles:
-
+Project1: Sematic Search on Medium post articles
+https://github.com/somaazure/VectorDB-Embeddings/tree/9a631d2d631d8b669d238d5abaf592d589cfe9b8/Proj1-SemanticSearch
 
 
 
