@@ -52,7 +52,7 @@ def split_text(text, chunk_size=1000, chunk_overlap=20):
 
 # Load documents from the directory
 # directory_path = "./data/new_articles"
-directory_path = "C:\\Users\\somashekar.inguva\\OneDrive - Telstra\\Documents\\GenAI_Projects\\vector-databases-course\\data\\new_articles"
+directory_path = "data\\new_articles"
 documents = load_documents_from_directory(directory_path)
 
 # Split the documents into chunks
